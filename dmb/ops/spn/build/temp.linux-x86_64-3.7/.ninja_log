@@ -1,0 +1,5 @@
+# ninja log v5
+0	1109	1647930866089646001	/data2/zhangjw/FCStereo_base/dmb/ops/spn/build/temp.linux-x86_64-3.7/src/gaterecurrent2dnoind_kernel.o	bc3a076c8e365e94
+0	18245	1647930883217645654	/data2/zhangjw/FCStereo_base/dmb/ops/spn/build/temp.linux-x86_64-3.7/src/gaterecurrent2dnoind_cuda.o	da8e8237d55d5abd
+3	973	1647930884885645620	/data2/zhangjw/FCStereo_base/dmb/ops/spn/build/temp.linux-x86_64-3.7/src/gaterecurrent2dnoind_kernel.o	63ecc8d418a88ff2
+3	18168	1647930902073645272	/data2/zhangjw/FCStereo_base/dmb/ops/spn/build/temp.linux-x86_64-3.7/src/gaterecurrent2dnoind_cuda.o	f6396a0bf43362ef
