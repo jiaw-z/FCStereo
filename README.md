@@ -19,3 +19,8 @@ Despite recent stereo matching networks achieving impressive performance given s
 ## Method overview
 ![image](https://user-images.githubusercontent.com/66359549/159516301-05ad393d-c710-4037-8826-ce68778f9330.png)
 
+## Method implementation
+### config
+### Stereo Contrastive Feature (SCF) loss
+### Stereo Selective Whitening (SSW) loss
+
