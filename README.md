@@ -32,3 +32,7 @@ Despite recent stereo matching networks achieving impressive performance given s
 
 [./dmb/modeling/stereo/layers/instance_whitening.py](./dmb/modeling/stereo/layers/instance_whitening.py)
 
+
+## License
+This Repo is released under MIT [License](LICENSE).
+
