@@ -21,7 +21,7 @@ Despite recent stereo matching networks achieving impressive performance given s
 
 ## Method implementation
 ### config
-./configs/FCStereo/
+[./configs/FCStereo/](./configs/FCStereo/)
 ### Stereo Contrastive Feature (SCF) loss
 ./dmb/modeling/stereo/models/fc_stereo_base.py
 
