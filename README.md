@@ -23,6 +23,6 @@ Despite recent stereo matching networks achieving impressive performance given s
 ### config
 ./configs/FCStereo/
 ### Stereo Contrastive Feature (SCF) loss
-./
+./dmb/modeling/stereo/losses/ssw_loss.py
 ### Stereo Selective Whitening (SSW) loss
 
