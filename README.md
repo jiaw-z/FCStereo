@@ -21,6 +21,7 @@ Despite recent stereo matching networks achieving impressive performance given s
 
 ## Method implementation
 ### config
+./configs/FCStereo
 ### Stereo Contrastive Feature (SCF) loss
 ### Stereo Selective Whitening (SSW) loss
 
