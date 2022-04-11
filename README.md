@@ -36,7 +36,7 @@ Despite recent stereo matching networks achieving impressive performance given s
 ## Train from scratch
 You can use the [bash file](./tools/dist_train.sh) to train a model.
 ### FC-PSMNet
-You can train PSMNet with our feature consistency constriants with the [config file](./configs/FCStereo/fc_psm_sceneflow.py)
+You can train PSMNet with our feature consistency constriants with the [config file](./configs/FCStereo/fc_psm_sceneflow.py).
 
 ## Citation
 If you find this project helpful in your research, welcome to cite the paper:
