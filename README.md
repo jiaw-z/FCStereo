@@ -34,7 +34,9 @@ Despite recent stereo matching networks achieving impressive performance given s
 
 
 ## Train from scratch
-[./tools/dist_train.sh](./tools/dist_train.sh)
+You can use the bash file [./tools/dist_train.sh](./tools/dist_train.sh) to train a model.
+### PSMNet
+You can train PSMNet with our feature consistency constriants with the config file [./configs/FCStereo/fc_psm_sceneflow.py](./configs/FCStereo/fc_psm_sceneflow.py)
 
 ## License
 This Repo is released under MIT [License](LICENSE).
