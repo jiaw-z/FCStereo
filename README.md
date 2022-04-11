@@ -34,7 +34,7 @@ Despite recent stereo matching networks achieving impressive performance given s
 
 
 ## Train from scratch
-[./tools/dist_train.sh]
+[./tools/dist_train.sh](./tools/dist_train.sh)
 
 ## License
 This Repo is released under MIT [License](LICENSE).
