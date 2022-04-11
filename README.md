@@ -40,24 +40,24 @@ You can train PSMNet with our feature consistency constriants with the config fi
 
 ## Citation
 If you find this project helpful in your research, welcome to cite the paper:
-'''
+```
     @article{zhang2022revisiting,
       title={Revisiting Domain Generalized Stereo Matching Networks from a Feature Consistency Perspective},
       author={Zhang, Jiawei and Wang, Xiang and Bai, Xiao and Wang, Chen and Huang, Lei and Chen, Yimin and Gu, Lin and Zhou, Jun and Harada, Tatsuya and Hancock, Edwin R},
       journal={arXiv preprint arXiv:2203.10887},
       year={2022}
     }
-'''
+```
 
 If you use the DenseMatchingBenchmark toolbox or benchmark in your research, please also consider cite:
-'''
+```
     @article{zhang2020adaptive,
       title={Adaptive Unimodal Cost Volume Filtering for Deep Stereo Matching},
       author={Zhang, Youmin and Chen, Yimin and Bai, Xiao and Yu, Suihanjin and Yu, Kun and Li, Zhiwei and Yang, Kuiyuan},
       journal={AAAI},
       year={2020}
     }
-'''
+```
 
 ## License
 This Repo is released under MIT [License](LICENSE).
