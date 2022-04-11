@@ -17,7 +17,7 @@ Despite recent stereo matching networks achieving impressive performance given s
 
 
 ## Method overview
-![image](https://user-images.githubusercontent.com/66359549/159516301-05ad393d-c710-4037-8826-ce68778f9330.png)
+![image width="80%" height="60%"](https://user-images.githubusercontent.com/66359549/159516301-05ad393d-c710-4037-8826-ce68778f9330.png)
 
 ## Method implementation
 ### config
